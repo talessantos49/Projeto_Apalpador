@@ -4,6 +4,7 @@ from . import views
 
 urlpatterns = [
     # path('home/', views.withtemplates),
+    path('', views.maq235),
     path('retificaLonga/maq235/', views.maq235),
     path('retificaLonga/display/', views.maq235),
     path('retificaLonga/template/', views.template)
