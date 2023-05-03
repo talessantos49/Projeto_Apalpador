@@ -1,0 +1,36 @@
+/* p {
+    font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px; 
+}
+body {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+.bar {
+    border: 1px solid #0b3536;
+    border-radius: 6px;
+}
+#viz .barText {
+    fill: #f5faf8;
+    font-weight: 500;
+}
+.axisY text, .axisX text, .headerText text{
+    fill: #0b3536;
+}
+#viz svg {
+    background-color: #f5faf8;
+} */
+
+p {
+    display: inline-block;
+    color: blue;
+}
+div{
+    display: inline-block;
+}
+
+#container-a{
+    background-color: red;
+}
+#container-b{
+    background-color: yellow;
+}
